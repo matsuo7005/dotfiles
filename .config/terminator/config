@@ -1,0 +1,34 @@
+[global_config]
+  enabled_plugins = InactivityWatch, TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  scroll_tabbar = True
+  suppress_multiple_term_dialog = True
+  title_font = Ricty 12
+  title_use_system_font = False
+  window_state = maximise
+[keybindings]
+  hide_window = <Super>Down
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 0:0
+      size = 1920, 1053
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    allow_bold = False
+    background_color = "#001317"
+    background_darkness = 0.91
+    background_type = transparent
+    copy_on_selection = True
+    cursor_color = "#b3cacc"
+    cursor_shape = ibeam
+    font = Meslo LG M for Powerline 11
+    foreground_color = "#c7d5d6"
+    palette = "#2e3436:#cc0000:#4e9a06:#c4a000:#8b9fba:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#a9fb5a:#fce94f:#729fcf:#e7b3e1:#34e2e2:#eeeeec"
+    use_system_font = False
