@@ -25,6 +25,9 @@ set -x PATH $PATH $GOPATH/bin
 # Dart
 set PATH /usr/lib/dart/bin $PATH
 
+# AWS CLI
+set PATH ~/.local/bin $PATH
+
 # alias
 alias pbcopy='xsel --clipboard --input'
 alias pbpaste='xsel --clipboard --output'
