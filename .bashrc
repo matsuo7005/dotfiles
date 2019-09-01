@@ -128,3 +128,6 @@ export PATH="$PATH:/usr/lib/dart/bin"
 
 # AWS CLI
 export PATH="$PATH:~/.local/bin"
+
+# Linuxbrew 
+export PATH="$PATH:/home/linuxbrew/.linuxbrew/bin"
