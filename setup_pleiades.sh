@@ -20,8 +20,8 @@ setting_jetbrains_ide() {
     local vmoptions_path="${HOME}/.local/share/JetBrains/Toolbox/apps/${1}/ch-0/${version}.vmoptions"
     local install_path="$HOME/.local/share/JetBrains/Toolbox/apps/${1}/ch-0/pleiades"
   elif [ $1 == "IDEA-U" ]; then
-    local vmoptions_path="${HOME}/.local/share/JetBrains/Toolbox/apps/${1}/ch-1/${version}.vmoptions"
-    local install_path="$HOME/.local/share/JetBrains/Toolbox/apps/${1}/ch-1/pleiades"
+    local vmoptions_path="${HOME}/.local/share/JetBrains/Toolbox/apps/${1}/ch-0/${version}.vmoptions"
+    local install_path="$HOME/.local/share/JetBrains/Toolbox/apps/${1}/ch-0/pleiades"
   else
     return
   fi
