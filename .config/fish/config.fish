@@ -31,3 +31,6 @@ set PATH ~/.local/bin $PATH
 # alias
 alias pbcopy='xsel --clipboard --input'
 alias pbpaste='xsel --clipboard --output'
+
+# Linuxbrew
+set PATH /home/linuxbrew/.linuxbrew/bin $PATH
