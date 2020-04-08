@@ -126,8 +126,5 @@ source $HOME/.asdf/completions/asdf.bash
 # Dart
 export PATH="/usr/lib/dart/bin:$PATH"
 
-# AWS CLI
-export PATH="~/.local/bin:$PATH:"
-
 # Linuxbrew
 export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"

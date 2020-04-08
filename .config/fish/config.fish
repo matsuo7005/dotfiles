@@ -28,6 +28,9 @@ set PATH /usr/lib/dart/bin $PATH
 # Linuxbrew
 set PATH /home/linuxbrew/.linuxbrew/bin $PATH
 
+# Linuxbrew
+set PATH /home/linuxbrew/.linuxbrew/bin $PATH
+
 # alias
 alias pbcopy='xsel --clipboard --input'
 alias pbpaste='xsel --clipboard --output'
