@@ -25,8 +25,8 @@ set -x PATH $PATH $GOPATH/bin
 # Dart
 set PATH /usr/lib/dart/bin $PATH
 
-# AWS CLI
-set PATH ~/.local/bin $PATH
+# Linuxbrew
+set PATH /home/linuxbrew/.linuxbrew/bin $PATH
 
 # Linuxbrew
 set PATH /home/linuxbrew/.linuxbrew/bin $PATH
